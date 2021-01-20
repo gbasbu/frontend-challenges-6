@@ -154,7 +154,8 @@ main .title {
   color: #6d708d;
 }
 
-.flex-grid .col h1 {
+.flex-grid .col .price {
+  display: inline-block;
   font-size: 3rem;
   color: #494c5f;
   margin-top: 20px;

@@ -121,7 +121,8 @@ main{
         span{
             color: $Grayish-Blue;
         }
-        h1{
+        .price{
+            display: inline-block;
             font-size: 3rem;
             color: $Dark-Grayish-Blue;
             margin-top: 20px;
