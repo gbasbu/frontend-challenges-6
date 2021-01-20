@@ -313,6 +313,7 @@ header{
         margin-top: 70px;
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
+        grid-gap:10px;
         @media (max-width:790px) {
             grid-template-columns: none;
         }
@@ -441,6 +442,7 @@ footer{
                     padding: 20px 7px;
                 }
                 i{
+                    cursor: pointer;
                     font-size: 1.8rem;
                     color: $Dark-Grayish-Violet;
                     

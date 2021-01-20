@@ -475,6 +475,7 @@ header .grid .col-2 img {
   display: grid;
   -ms-grid-columns: 1fr 1fr 1fr;
       grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 10px;
 }
 
 @media (max-width: 790px) {
@@ -683,6 +684,7 @@ footer .row-1 ul li {
 }
 
 footer .row-1 ul li i {
+  cursor: pointer;
   font-size: 1.8rem;
   color: #837d87;
 }
