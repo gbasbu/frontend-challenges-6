@@ -150,7 +150,7 @@ main .title {
   }
 }
 
-.flex-grid .col span {
+.flex-grid .col h2 {
   color: #6d708d;
 }
 
@@ -216,7 +216,7 @@ main .title {
   }
 }
 
-.flex-grid .col:nth-child(2) span {
+.flex-grid .col:nth-child(2) h2 {
   color: #f6f6fe;
 }
 
